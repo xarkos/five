@@ -1,0 +1,73 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-battery-status": {
+            "PACKAGE_NAME": "five.xarkos.com"
+        },
+        "cordova-plugin-camera": {
+            "PACKAGE_NAME": "five.xarkos.com"
+        },
+        "cordova-plugin-media-capture": {
+            "PACKAGE_NAME": "five.xarkos.com"
+        },
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "five.xarkos.com"
+        },
+        "cordova-plugin-contacts": {
+            "PACKAGE_NAME": "five.xarkos.com"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "five.xarkos.com"
+        },
+        "cordova-plugin-device-motion": {
+            "PACKAGE_NAME": "five.xarkos.com"
+        },
+        "cordova-plugin-device-orientation": {
+            "PACKAGE_NAME": "five.xarkos.com"
+        },
+        "cordova-plugin-dialogs": {
+            "PACKAGE_NAME": "five.xarkos.com"
+        },
+        "cordova-plugin-file-transfer": {
+            "PACKAGE_NAME": "five.xarkos.com"
+        },
+        "cordova-plugin-geolocation": {
+            "PACKAGE_NAME": "five.xarkos.com"
+        },
+        "cordova-plugin-globalization": {
+            "PACKAGE_NAME": "five.xarkos.com"
+        },
+        "cordova-plugin-inappbrowser": {
+            "PACKAGE_NAME": "five.xarkos.com"
+        },
+        "cordova-plugin-media": {
+            "PACKAGE_NAME": "five.xarkos.com"
+        },
+        "cordova-plugin-network-information": {
+            "PACKAGE_NAME": "five.xarkos.com"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "five.xarkos.com"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "five.xarkos.com"
+        },
+        "cordova-plugin-vibration": {
+            "PACKAGE_NAME": "five.xarkos.com"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "five.xarkos.com"
+        }
+    },
+    "dependent_plugins": {
+        "cordova-plugin-file": {
+            "PACKAGE_NAME": "five.xarkos.com"
+        }
+    }
+}
